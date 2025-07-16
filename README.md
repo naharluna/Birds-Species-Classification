@@ -90,7 +90,7 @@ This project is part of the Capstone series and was developed to demonstrate the
 
 For questions or collaboration:
 - GitHub: [badrunnahar](https://github.com/badrunnahar)
-- Email: [your.email@example.com]
+
 
 ---
 
