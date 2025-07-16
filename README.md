@@ -1,6 +1,6 @@
 # 🐦 Birds Species Classification - Capstone Project
 
-This repository contains the final capstone project for classifying bird species using deep learning. The project explores the use of a Convolutional Neural Network (CNN) for accurate multi-class image classification of various bird species.
+This repository contains the final capstone project for classifying bird species using deep learning. The project investigates the application of a Convolutional Neural Network (CNN) for precise multi-class image classification of diverse bird species.
 
 ---
 
@@ -20,7 +20,7 @@ The objective of this project is to build an image classification model that can
 ## 📊 Dataset
 
 - The dataset contains images of different bird species, preprocessed and augmented to ensure balanced and robust training.
-- Common preprocessing steps included resizing, normalization, and augmentation such as flipping, zooming, and rotation.
+- Common preprocessing steps included resizing, normalization, and augmentation, such as flipping, zooming, and rotation.
 
 ---
 
@@ -37,7 +37,7 @@ The objective of this project is to build an image classification model that can
 
 ## 🧠 Model Architecture
 
-- A custom Convolutional Neural Network (CNN) was developed using Keras Sequential API.
+- A custom Convolutional Neural Network (CNN) was developed using the Keras Sequential API.
 - Key layers include:
   - Multiple `Conv2D` layers
   - `MaxPooling2D`
@@ -50,7 +50,7 @@ The objective of this project is to build an image classification model that can
 ## 📈 Results
 
 - Achieved high accuracy on the validation set.
-- Training and validation accuracy/loss plots included in the notebook for visual performance analysis.
+- Training and validation accuracy/loss plots are included in the notebook for visual performance analysis.
 - Classification report and confusion matrix used for deeper evaluation.
 
 ---
@@ -68,7 +68,7 @@ The objective of this project is to build an image classification model that can
 - Dataset visualization & augmentation
 - Training history tracking
 - Model evaluation using metrics and plots
-- Error analysis using confusion matrix
+- Error analysis using a confusion matrix
 
 ---
 
